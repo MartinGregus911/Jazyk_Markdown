@@ -20,4 +20,4 @@ Heading level 2
 **Dnes** je den    
 aj zajtra bude den
 
-> toto je bloq..  toto je dalsi
+> toto je bloq..    toto je dalsi
