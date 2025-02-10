@@ -23,12 +23,12 @@ aj zajtra bude den
 > toto je bloq..    
 > toto je dalsi
 
-Nakupny zoznam:
--prva polozka
--druha polozka
--tretia polozka
+Nakupny zoznam:    
+-prva polozka    
+-druha polozka    
+-tretia polozka    
 
-Nakupny zoznam:
-*prva polozka
-*druha polozka
-*tretia polozka
+Nakupny zoznam:    
+*prva polozka    
+*druha polozka    
+*tretia polozka    
